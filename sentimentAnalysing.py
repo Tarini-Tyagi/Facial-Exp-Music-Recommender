@@ -11,8 +11,8 @@ import random
 import pandas as pd
 from spotipy.oauth2 import SpotifyClientCredentials #To access authorised Spotify data
 
-client_id="38123817a7554e81bf633dd282dc2507"
-client_secret="517a459b19f14b20a9a30f681cf96003"
+client_id="*****************************"
+client_secret="*********************************"
 
 ytvalue=""
 current_ytvalue = pd.core.series.Series(ytvalue)
